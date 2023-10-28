@@ -9,7 +9,7 @@
 - Sample Output: 15
 
 > [!IMPORTANT]
-> Answer in **sum-1-n.py**</mark>
+> Answer in **sum-1-n.py**
 
 ___
 
@@ -32,7 +32,8 @@ ___
 - Sample Input: 4
 - Sample Output: 1
 
-
+> [!IMPORTANT]
+> Answer in **count-leap-year.py**
 
 
 
