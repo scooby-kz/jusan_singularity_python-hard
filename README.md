@@ -8,4 +8,4 @@
 - Sample Input: 5
 - Sample Output: 15
 
-**Answer in Hard_tasks.md**
+Answer in **sum-1-n.py**
