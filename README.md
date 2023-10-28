@@ -8,8 +8,9 @@
 - Sample Input: 5
 - Sample Output: 15
 
-Answer in **sum-1-n.py**
+==Answer in **sum-1-n.py**==
 
+___
 
 ## 2. Циклы count-leap-year :zap:
 В этой задаче вам нужно вернуть кол-во високосных лет до заданного n года.
