@@ -8,7 +8,7 @@
 - Sample Input: 5
 - Sample Output: 15
 
-==Answer in **sum-1-n.py**==
+<mark>Answer in **sum-1-n.py**</mark>
 
 ___
 
