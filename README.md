@@ -181,6 +181,7 @@ ___
 **Sample Output:**
 
     0 1
+___
 
 > [!IMPORTANT]
 > Answer in **stock-buy.py**
