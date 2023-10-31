@@ -182,9 +182,8 @@ ___
 
     0 1
 
-
-
-
+> [!IMPORTANT]
+> Answer in **stock-buy.py**
 
 
 
